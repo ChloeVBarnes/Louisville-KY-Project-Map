@@ -7,5 +7,5 @@ Repository that includes a static map of the height of the fifth third bank buil
 # Louisville Animation
 ![Screenshot-Image](YouTubeVideo.jpg) 
 
-YouTube Video Link
+## YouTube Video Link
 https://youtu.be/cgfXx4PycLw 
